@@ -1,8 +1,8 @@
 name: emoji_feedback
 description: An mood feedback component which could be used for rating the user's mood.
-version: 0.1.0
+version: 0.2.0
 author: vidya <mavuduru.123.sagar@gmail.com>
-homepage: https://github.com/fedeoo/emoji_feedback/
+homepage: https://github.com/vidya-hub/emoji_rating
 
 environment:
   sdk: ">=2.0.0 <3.0.0"
